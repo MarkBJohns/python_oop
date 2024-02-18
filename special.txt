@@ -1,0 +1,57 @@
+# Fruit
+
+apple
+banana
+cantaloupe
+durin
+elderberry
+fig
+grapes
+huckleberry
+imbe
+jackfruit
+kiwi
+lemon
+mango
+nectarine
+orange
+pineapple
+quince
+raspberrry
+strawberry
+tangerine
+ugli
+vanilla bean
+watermelon
+xigua
+yuzu
+zucchini
+
+# Vegetable
+
+artichoke
+broccoli
+carrot
+daikon
+eggplant
+fennel
+garlic
+horseradish
+iceburg lettuce
+jicama
+kale
+leek
+mushroom
+napa cabbage
+onion
+potato
+quince
+radish
+spinach
+tomato
+ulluco
+vigna
+watercress
+xiao bai cai
+yam
+zucchini
